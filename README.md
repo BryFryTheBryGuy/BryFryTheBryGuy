@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! My name is Bryan (pronouns he/him) and I am currently studying software devleopment! 
+Hi! My name is Bryan (pronouns he/him) and I am currently studying software development! 
 I hope to use my new skills to build tools that will benefit the entertainment industry and it's labour force.
